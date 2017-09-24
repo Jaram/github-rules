@@ -1,29 +1,29 @@
 
-ÀÚ¶÷2017 Organization ±ÔÄ¢
+Organization ê·œì¹™
 ====
-ÇÁ·ÎÁ§Æ® ÀÌ¸§ ±ÔÄ¢
+í”„ë¡œì íŠ¸ ì´ë¦„ ê·œì¹™
 ---
-- ¿µ¹® ¼Ò¹®ÀÚ¿Í ÇÏÀÌÇÂ(`-`)À¸·Î ±¸¼º
+- ì˜ë¬¸ ì†Œë¬¸ìžì™€ í•˜ì´í”ˆ(`-`)ìœ¼ë¡œ êµ¬ì„±
 - ex) jaram-org-android
 
-ÆÀ ±ÔÄ¢
+íŒ€ ê·œì¹™
 ----
-###  ÆÀ ÀÌ¸§ ±ÔÄ¢ 
-- ¿µ¹® ´ë¹®ÀÚ¿Í ÇÏÀÌÇÂ(`-`)À¸·Î ±¸¼º
+###  íŒ€ ì´ë¦„ ê·œì¹™ 
+- ì˜ë¬¸ ëŒ€ë¬¸ìžì™€ í•˜ì´í”ˆ(`-`)ìœ¼ë¡œ êµ¬ì„±
 - ex) Admin-Jaram-Web
 
-### ÆÀ ÇÒ´ç ±ÔÄ¢ 
-- ÇÑ ½ºÅÍµð, ÆÀ´ç 1°³ÀÇ repository¸¦ ¿øÄ¢À¸·Î ÇÑ´Ù
-- ÇÑ ½ºÅÍµð ¾È¿¡ ¿©·¯ ÆÀÀÌ »ý±æ °æ¿ì ±êÇéÀÇ `parent team`±â´ÉÀ» ÀÌ¿ëÇØ¼­ ÆÀÀ» ÂÉ°µ´Ù.
-	- ÂÉ°³Áø ÆÀÀº 1°³ÀÇ repository¸¦ ¸¸µé°í °ü¸®ÇÑ´Ù
-- ÇÑ ½ºÅÍµð°¡ °³ÀÎ ÇÁ·ÎÁ§Æ®·Î ±¸¼ºµÇ´Â °æ¿ì, repository¿¡´Â °³ÀÎ ÇÁ·ÎÁ§Æ®ÀÇ ¸µÅ©¸¦ Ã·ºÎÇÑ´Ù.
-	- Áï °³ÀÎ ÇÁ·ÎÁ§Æ®´Â °³ÀÎ repository¿¡ °ü¸®
+### íŒ€ í• ë‹¹ ê·œì¹™ 
+- í•œ ìŠ¤í„°ë””, íŒ€ë‹¹ 1ê°œì˜ repositoryë¥¼ ì›ì¹™ìœ¼ë¡œ í•œë‹¤
+- í•œ ìŠ¤í„°ë”” ì•ˆì— ì—¬ëŸ¬ íŒ€ì´ ìƒê¸¸ ê²½ìš° ê¹ƒí—™ì˜ `parent team`ê¸°ëŠ¥ì„ ì´ìš©í•´ì„œ íŒ€ì„ ìª¼ê° ë‹¤.
+	- ìª¼ê°œì§„ íŒ€ì€ 1ê°œì˜ repositoryë¥¼ ë§Œë“¤ê³  ê´€ë¦¬í•œë‹¤
+- í•œ ìŠ¤í„°ë””ê°€ ê°œì¸ í”„ë¡œì íŠ¸ë¡œ êµ¬ì„±ë˜ëŠ” ê²½ìš°, repositoryì—ëŠ” ê°œì¸ í”„ë¡œì íŠ¸ì˜ ë§í¬ë¥¼ ì²¨ë¶€í•œë‹¤.
+	- ì¦‰ ê°œì¸ í”„ë¡œì íŠ¸ëŠ” ê°œì¸ repositoryì— ê´€ë¦¬
 
 
-### Repository ±ÔÄ¢
+### Repository ê·œì¹™
 |  | readme | wiki|
 | ---| -----| ---- |
-| ³»¿ë| ÇÁ·ÎÁ§Æ® ¼Ò°³, ¶óÀÌ¼¾½º, ¼³Ä¡&»ç¿ë¹ý, ÆÀ(°³ÀÎ) repository ÁÖ¼Ò | ³ª¸ÓÁö, Æ¯È÷ È¸ÀÇ·Ï |
+| ë‚´ìš©| í”„ë¡œì íŠ¸ ì†Œê°œ, ë¼ì´ì„¼ìŠ¤, ì„¤ì¹˜&ì‚¬ìš©ë²•, íŒ€(ê°œì¸) repository ì£¼ì†Œ | ë‚˜ë¨¸ì§€, íŠ¹ížˆ íšŒì˜ë¡ |
 
 
-[ÀÚ¶÷2017](https://github.com/Jaram2017)  
+- [ìžëžŒ2017](https://github.com/Jaram2017)  
